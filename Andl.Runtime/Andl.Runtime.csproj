@@ -64,6 +64,7 @@
     <Compile Include="SqlTarget.cs" />
     <Compile Include="Templater.cs" />
     <Compile Include="TypedValue.cs" />
+    <Compile Include="TypedValueBuilder.cs" />
     <Compile Include="TypeMaker.cs" />
   </ItemGroup>
   <ItemGroup>
