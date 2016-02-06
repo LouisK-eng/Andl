@@ -55,9 +55,6 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="packages.config" />
-    <None Include="setup.bat" />
-    <None Include="thriftsupplierpart.andl" />
-    <None Include="ThriftTest.andl" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Andl.Gateway\Andl.Gateway.csproj">
